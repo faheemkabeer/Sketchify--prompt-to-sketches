@@ -1,0 +1,9 @@
+flask
+flask-cors
+torch
+diffusers
+transformers
+accelerate
+safetensors
+pillow
+xformers
