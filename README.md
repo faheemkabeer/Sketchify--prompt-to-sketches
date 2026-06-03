@@ -47,7 +47,7 @@ Users can generate portraits, landscapes, architecture sketches, fantasy illustr
 
 ### Architecture Sketch
 
-![Architecture](./sample2.png)
+![Architecture](./100a14b0-da8e-4c5b-aa23-94929dc04928.png)
 
 ### Landscape Sketch
 
