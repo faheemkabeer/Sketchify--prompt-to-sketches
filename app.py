@@ -27,9 +27,9 @@ FRONTEND_FOLDER = os.path.abspath(
 
 OUTPUT_FOLDER = os.path.join(BASE_DIR, "outputs")
 
-BASE_MODEL_PATH = r"C:\Users\FAHEEM\Desktop\sketchify\backend\models\MyBack_SD1.5_Realistic_Vision_inpainting_VAE_V5.1.safetensors"
+BASE_MODEL_PATH = r""
 
-LORA_PATH = r"C:\Users\FAHEEM\Desktop\sketchify\backend\models\trained model sketches v1-000006.safetensors"
+LORA_PATH = r""
 
 os.makedirs(OUTPUT_FOLDER, exist_ok=True)
 
@@ -126,7 +126,7 @@ def generate():
                 "error": "Prompt is empty"
             })
 
-        prompt = "abhi_sketch_style, " + user_prompt
+        prompt = ", " + user_prompt
 
         negative_prompt = (
             "low quality, blurry, distorted face, bad anatomy, "
@@ -227,6 +227,6 @@ if __name__ == "__main__":
 
     app.run(
         host="0.0.0.0",
-        port=5000,
+        port=,
         debug=True
     )
