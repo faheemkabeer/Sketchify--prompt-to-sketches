@@ -43,11 +43,11 @@ Users can generate portraits, landscapes, architecture sketches, fantasy illustr
 
 ### Portrait Sketch
 
-![Portrait](./0e677597-a761-4b10-9505-4e0ee5f9b3ab.png)
+![Portrait](output/0e677597-a761-4b10-9505-4e0ee5f9b3ab.png)
 
 ### Architecture Sketch
 
-![Architecture](./100a14b0-da8e-4c5b-aa23-94929dc04928.png)
+![Architecture](output/100a14b0-da8e-4c5b-aa23-94929dc04928.png)
 
 ### Landscape Sketch
 
